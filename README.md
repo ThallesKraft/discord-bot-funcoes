@@ -2,7 +2,6 @@
     <a href="https://pt-br.reactjs.org/">🔨 - Discord bot funções</a>
 </h1>
 <p align="center">🚀 Uma dependência para lhe ajudar nas funções de seu discord-bot</p>
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 ## *➡️ Instalação*
 ```
