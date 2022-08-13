@@ -35,7 +35,7 @@ client.on('message', async (msg) => {
 ```js
 const barra = require("discord-bot-funcoes");
 
-let msg = progressbar.splitBar(10, 5);
+let msg = barra.splitBar(10, 5);
 
 message.reply({content: `${msg}`})
 
