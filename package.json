@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-funcoes",
+  "version": "1.0.0",
+  "description": "Uma npm com funções para lhe ajudar com seus bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord-function",
+    "discord-br"
+  ],
+  "author": "ThallesKraft",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^13.9.0",
+    "node-fetch": "^3.2.6"
+  }
+}
